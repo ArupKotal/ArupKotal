@@ -1,4 +1,4 @@
-## Hi I'm Arup 👋
+## Hi👋, I'm Arup Kotal
 
 <!--
 **ArupKotal/ArupKotal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
